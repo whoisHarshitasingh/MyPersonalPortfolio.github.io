@@ -462,7 +462,7 @@ section.counter-wrapper > div h5{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what I made";
     color: rgb(62, 223, 134);
 }
 .teams .carousel .card{
