@@ -460,7 +460,7 @@ section.counter-wrapper > div h5{
     width: 80%;
 }
 
-/* teams section styling */
+/* Project section styling */
 .teams .title::after{
     content: "what I made";
     color: rgb(62, 223, 134);
